@@ -19,3 +19,4 @@ class nguoi():
 infor = "1.7m+45kg+male"
 sn = nguoi.thong_so(infor)
 print(sn.__dict__)
+print("da chinh sưa")
